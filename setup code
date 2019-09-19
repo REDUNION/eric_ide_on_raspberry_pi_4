@@ -1,0 +1,15 @@
+sudo apt-get update                     #update the Buster the raspberry pi operating system
+sudo apt-get dist-upgrade        
+sudo apt-get install qt5-default        #setup the qt5 software    
+sudo apt-get install qtcreator          #setup the qtcreator
+sudo apt-get install libqt5serialport5  #setup the qt5 serial port
+sudo apt-get install libqt5serialport5-dev
+sudo apt-get install qttools5-dev-tools
+sudo apt-get install eric               #setup the eric
+
+#reboot raspberry pi 4
+
+
+pyuic5                                  #add the following programme from the buster menu add software
+
+finish
